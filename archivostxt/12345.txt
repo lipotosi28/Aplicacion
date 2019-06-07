@@ -1,0 +1,5 @@
+Codigo de Producto: 12345
+Nombre de Producto: Toallas Higienicas
+Peso de Producto: 320gr
+Marca de Producto: Nosotras
+Fabricante: Yale Colombia
