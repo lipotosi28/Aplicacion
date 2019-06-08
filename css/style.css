@@ -282,7 +282,7 @@ body{
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
     -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
+    --border-radius: 50%;
 }
 .callbacks_here a:after{
 	background: #03A9F4;
